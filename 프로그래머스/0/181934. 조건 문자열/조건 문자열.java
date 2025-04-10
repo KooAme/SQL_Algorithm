@@ -15,3 +15,4 @@ class Solution {
     }
     }
 }
+//return (">".equals(ineq) ? n > m : n < m) || ("=".equals(eq) ? n == m : false) ? 1 : 0;
