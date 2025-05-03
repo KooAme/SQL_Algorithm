@@ -2,4 +2,4 @@
 
 # JavaScript_Algorithm
 
-# Java_Algorithm 4月1日から~
+# Java_Algorithm 4月1日~
